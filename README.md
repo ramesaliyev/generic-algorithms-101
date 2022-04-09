@@ -1,4 +1,4 @@
-# Jupyter Template
+# Generic Algorithms 101
 
 ## Python Env Setup
 
