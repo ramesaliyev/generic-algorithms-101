@@ -11,6 +11,7 @@ bleach==5.0.0
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
+colorama==0.4.4
 cycler==0.11.0
 debugpy==1.6.0
 decorator==5.1.1
@@ -53,6 +54,7 @@ notebook-shim==0.1.0
 numpy==1.22.3
 opencv-python==4.5.5.64
 packaging==21.3
+pandas==1.4.2
 pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
@@ -69,6 +71,8 @@ pyparsing==3.0.7
 pyrsistent==0.18.1
 python-dateutil==2.8.2
 pytz==2022.1
+pywin32==303
+pywinpty==2.0.5
 pyzmq==22.3.0
 requests==2.27.1
 Send2Trash==1.8.0
